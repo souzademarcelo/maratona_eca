@@ -1,0 +1,252 @@
+---
+title: "**Maratona de Enquadramento**"
+author: 
+- <font size="6">Coordenação de Qualidade de Água e Enquadramento - CQUAL</font>
+- <font size="6">Superintendência de Estudos Hídricos e Socioeconômicos - SHE</font>
+- <font size="6">Agência Nacional de Águas e Saneamento Básico</font>
+date: "Dezembro de 2023"
+output:
+  revealjs::revealjs_presentation:
+    css: style.css
+    theme: sky
+    #highlight: pygments
+    center: true
+    self_contained: true
+    # reveal_plugins: 
+    #   - search
+    #   - zoom
+    #   - notes
+    #   - chalkboard
+    #   - menu
+    # reveal_options:
+    #   slideNumber: true
+    #   previewLinks: true
+
+
+---
+
+## **Apresentação**
+
+<section style="text-align: center;">
+
+A Coordenação de Qualidade de Água e Enquadramento CQUAL/SHE tem se dedicado a ampliar a discussão com diversas instituições sobre o Enquadramento de Corpos de Água em Classes Segundo os Usos Preponderantes (ECA) e seus normativos (Resoluções CONAMA nº 357/2005 e CNRH nº 91/2008) buscando aprimoramentos capazes de ampliar a implementação e efetividade deste instrumento de gestão da qualidade da água no Brasil.
+
+</section>
+
+## **Apresentação**
+
+<section style="text-align: center;">
+
+Assim, surgiu a ideia de promover uma maratona de Enquadramento na qual especialistas de diversas instituições compartilharão experiências e ideias em busca de soluções para os principais gargalos para a implementação do ECA.  
+
+</section>
+
+## **Objetivo**
+
+<section style="text-align: center;">
+
+Exercitar a inteligência coletiva com o intuito de consolidar propostas para o aperfeiçoamento e fortalecimento deste instrumento.  
+
+
+```{r inteligencia, echo=FALSE, warning=FALSE}
+library("vembedr")
+embed_url("https://youtu.be/zovtnO7da4I?si=RbvbINqy9YsvDiX7")
+
+```
+
+<!-- ![]("https://youtu.be/zovtnO7da4I?si=RbvbINqy9YsvDiX7") -->
+</section>
+
+  
+## **Delineamento Metodológico**
+
+###
+
+<section style="text-align: center;"> 
+
+
+A maratona será formatada nos moldes de uma *hackathon*.
+
+
+```{r hackathon, echo=FALSE, warning=FALSE}
+library("vembedr")
+embed_url("https://youtu.be/ffolPw5I32I?si=i2zdZap7R-qZH6NC")
+
+```
+
+</section>
+
+###
+
+<section style="text-align: center;"> 
+<font size="6">
+
+   
+- Desafios relativos à implementação do ECA serão propostos para a discussão em grupos de trabalho.
+
+- A formação dos grupos ocorrerá de forma voluntária, de acordo com o interesse dos participantes, e os participantes terão liberdade para intercambriar com outros grupos, caso haja interesse pessoal por outro tema ou discussão. 
+
+- Os grupos apresentarão suas propostas (pitch session), que serão discutidas com os demais participantes do evento.
+
+- As propostas serão consolidadas ao final do evento e estarão prontas para compor um produto a ser divulgado por meio eletrônico, NT, artigo em periódico, etc.
+
+</font>
+</section>
+
+## **Participantes**
+
+<section style="text-align: center;">
+
+<font size="5">
+
+Serão convidados participantes atualmente envolvidos em processos de enquadramento das seguintes instituições:
+
+- ADASA/DF
+- CETESB/SP e SEMIL/SP
+- IGAM/MG
+- IMASUL/MS
+- SEMA/MT
+- INEA/RJ 
+- INEMA/BA
+- SEMAD/GO 
+- SABESP/SP
+- AGERH/ES
+- IAT/PR
+- SEMAE e SDE/SC
+- SEMA/RS
+- SEDURBS/SE
+
+</font>
+</section>    
+
+## **Programação**
+
+  <section style="text-align: left;">
+
+  <h3>Dia 1 - Manhã</h3>
+  <p>9h - Café de abertura</p>
+  <p>9:45 - Apresentação dos objetivos, metodologia e programação</p>
+  <p>10:15 - Apresentação dos desafios do Enquadramento</p>
+  <p>11:00 - Formação dos grupos e escolha dos desafios</p>
+  <p>12:00 - Pausa para almoço</p>
+
+  </section>    
+
+
+###
+
+ <section style="text-align: left;">
+  <h3>Dia 1 - Tarde</h3>
+  <p>13h - Discussão intragrupos</p>
+  <p>16h - Aula invertida</p>
+  <p>17h30 - Encerramento do dia 1
+
+  </section>    
+  
+###
+
+  <section style="text-align: left;">
+
+  <h3>Dia 2 - Manhã</h3>
+  <p>9h -  Café de abertura</p>
+  <p>9h30 - Revisão e discussão dos desafios</p>
+  <p>10h30 - Formulação das propostas de aperfeiçoamento do Enquadramento</p>
+  <p>12h - Pausa para almoço</p>
+  </section>    
+
+
+###
+
+  <section style="text-align: left;">
+
+  <h3>Dia 2 - Tarde</h3>
+  <p>13h – Finalização da redação das propostas de aperfeiçoamento do ECA</p>
+  <p>14h - Apresentação das propostas e discussão coletiva</p>
+  <p>15h - Consolidação dos desafios e propostas</p>
+  <p>17h30 -  Encerramento do dia 2</p>
+  </section>  
+  
+###
+
+  <section style="text-align: left;">
+
+  <h3>Dia 3 - Manhã</h3>
+  <p>9h - Continuação da consolidação dos desafios e propostas</p>
+  <p>10h30 - Apresentação dos resultados e encaminhamentos</p>
+  <p>11h30 - Encerramento da maratona</p>
+  </section>  
+  
+
+
+## **Desafios**
+
+###
+<section style="text-align: center;"> 
+
+
+Elencamos três desafios iniciais para aperfeiçoamento do ECA, que foram levantados a partir das discussões que tivemos nos webinários promovidos pela CQUAL em 2023.
+
+</section>
+
+### 
+<section style="text-align: left;"> 
+<font size="5">
+
+**Ausência de critérios para a definição dos usos “preponderantes” e necessidade de **inclusão de ETEs como um uso preponderante**, ainda que não este não seja um uso restritivo**
+
+A falta de critérios mais claros para definir o uso preponderante pode fragilizar as propostas de ECA fazendo com que nem sempre as metas de qualidade da água atendam aos usos múltiplos, principalmente quando houver pouca participação social.
+
+Com relação à inclusão de ETEs como uso preponderante, poderia haver a possibilidade de restrição a usos existentes mais restritivos porque a diluição de efluentes tratados é um uso que certamente melhorará a qualidade da água na bacia com benefícios para a coletividade.
+
+</font>
+</section>
+
+
+###
+<section style="text-align: center;"> 
+<font size="6">
+
+**Monitoramento para acompanhamento das metas do enquadramento**   
+
+O Programa de Efetivação deve prever da revisão e expansão das redes de monitoramento para acompanhar a evolução da qualidade da água durante o programa de efetivação. Setores usuários podem contribuir com este acompanhamento, o que aumenta o grau de participação no processo de enquadramento. 
+Além das condições da qualidade nos corpos de água, o acompanhamento da implementação das ações partir do desenvolvimento de métricas e métodos também é crítico para dar transparência ao processo e garantir sua efetividade em face das metas estabelecidas.
+
+
+</font>
+</section>
+
+
+### 
+<section style="text-align: center;"> 
+<font size="6">
+
+**Curvas de permanência de qualidade de água associada a frequências de conformidade de parâmetros ao enquadramento *versus* vazões de referência fixa ou sazonal**   
+
+A vantagem dessa abordagem é que ela é mais realista, agregando aspectos associados a diferentes vazões sazonais. Dessa forma, ela pode ser empregada com mais flexibilidade no gerenciamento dos recursos hídricos e como ferramenta de planejamento e de acompanhamento da efetivação do enquadramento.
+
+</font>
+</section>
+
+
+### 
+<section style="text-align: center;"> 
+<font size="6">
+
+**Participação dos atores da bacia**   
+
+É comum identificar forte assimetria de informação entre os atores durante o processo de enquadramento. Há também obstáculos relacionados com a mobilização dos setores e atores carentes de recursos para a participação mais efetiva. Novas ferramentas de participação e a inclusão digital, no entanto, têm ajudado a superar tais obstáculos.
+
+</font>
+</section>
+
+
+
+## **Muito obrigado!**
+<section style="text-align: center;"> 
+
+
+<font size="6">
+Coordenação de Qualidade de Água e Enquadramento - CQUAL   
+Superintendência de Estudos Hídricos e Socioeconômicos - SHE
+</font>
+</section>
